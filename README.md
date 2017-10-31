@@ -15,4 +15,7 @@ as stated above, the main purpose
 this is simple web project,deploying
 
 ## How to Contribute
+  
+### Copy Right 
+ git.trainig 2014
 
